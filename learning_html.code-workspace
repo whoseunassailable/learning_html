@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../personal_portfolio/design_templates"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "learning_html"
+	}
+}
